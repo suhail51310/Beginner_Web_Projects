@@ -1,0 +1,40 @@
+video{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+div{
+    position: relative;
+    z-index: 2;
+    margin: 0 auto;
+    max-width: 200px;
+    margin-top: 230px;
+    text-align: center;
+    color: white;
+    font-size: medium;
+    margin-left:500px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    width: max-content;
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+    width: max-content;
+    padding-bottom: 0;
+    margin-bottom: 7px;
+}
+p{
+    padding-top: 0;
+    font-size: 30px;
+    width: max-content;
+    margin-top:5px;
+}
