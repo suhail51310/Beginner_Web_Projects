@@ -1,0 +1,38 @@
+
+body{
+       background: url(../images/pexels-alexander-dummer-132694.jpg) no-repeat fixed center;      
+       background-size: cover;
+}
+div{
+    
+    width: 60%;
+    margin-top: 180px;
+    text-align: center;
+    color: white;
+    border-radius: 18px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    margin-left: 50px;
+
+}
+button{
+    background-color: #C98E6E;
+    padding: 10px;
+    font-size:25px;
+    color: white;
+    border-radius: 12px;
+}
+i{
+   font-size: 50px; 
+   margin-top: 15px;
+   color:black;
+
+    
+}
+h1{
+    font-size: 50px;
+    margin:30px;
+}
+p{
+    font-size: 35px;
+}
